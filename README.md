@@ -66,3 +66,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
   star   
   11111111
+  222222
